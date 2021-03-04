@@ -1,0 +1,22 @@
+.btn-primary {
+    color: #fff;
+    background-color: #339933;
+    border-color: #339933;
+}
+
+.btn-secondary {
+    color: black;
+    background-color: #ffffff;
+    border-color: black;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #737373;
+}
+
+a {
+    color: #737373;
+    text-decoration: none;
+    background-color: transparent;
+}
